@@ -1,0 +1,8 @@
+- Website
+http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/index.html
+
+- TSP data
+http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/
+
+- Best known solutions for symmetric TSPs
+http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/STSP.html
